@@ -1,2 +1,3 @@
 # World-Of-Planisuss-Simulation
-World Of Planisuss Simulation
+This simulation creates a virtual world where different types of animals interact with each other and their environment. The main objective is to observe the behaviors and population dynamics of the animal species in the simulated world.
+The World Of Planisuss simulation is a project that aims to create a dynamic and interactive simulation of a virtual world. The simulation involves different types of animals interacting with each other and their environment. The main objective is to observe the behaviors and population dynamics of the animal species in the simulated world.
